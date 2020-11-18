@@ -10,7 +10,7 @@ body html .root {
 }
 @import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:ital,wght@1,100&display=swap");
 
-.ballProvider{
+.start{
 	font-family: "Fredoka One", cursive;
   
 	  background-color: #202124;
@@ -21,8 +21,6 @@ body html .root {
   border: none;
   width: 195px;
   margin: 15px;
-  
-
 }
 .reset{
 	font-family: "Fredoka One", cursive;
